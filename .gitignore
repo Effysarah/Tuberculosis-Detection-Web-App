@@ -1,0 +1,6 @@
+# virtual environment
+tb_detection/
+
+# Ignore VS Code folder and settings
+.vscode/
+.vscode/settings.json
