@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+    "c:/users/sarah e/downloads/tb_detection_app/tb_detection/lib/site-packages"
+],
+"python.analysis.extraPaths": [
+    "c:/users/sarah e/downloads/tb_detection_app/tb_detection/lib/site-packages"
+]
+}
