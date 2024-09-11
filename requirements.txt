@@ -1,6 +1,4 @@
 streamlit
 tensorflow
 numpy
-requests
-zlib
 Pillow
