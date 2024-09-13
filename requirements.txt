@@ -2,3 +2,6 @@ streamlit
 tensorflow
 numpy
 Pillow
+seaborn
+matplotlib
+scikit-learn
