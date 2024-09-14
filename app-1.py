@@ -83,7 +83,7 @@ elif page == "About Me":
 
     with col1:
         # LinkedIn logo and link
-        linkedin_logo = "Linkedln.png"  # Add the correct file path for the LinkedIn logo
+        linkedin_logo = "LinkedIn.png"  # Add the correct file path for the LinkedIn logo
         st.image(linkedin_logo, width=40)
         st.markdown("[![LinkedIn](https://image-link-placeholder)](https://www.linkedin.com/in/sarah-effiong-09913a210/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")  # Replace with your actual LinkedIn URL
 
