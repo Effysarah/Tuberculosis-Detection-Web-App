@@ -66,7 +66,7 @@ if page == "Home":
 elif page == "About Me":
     st.title("About Me")
      # Add your professional photo
-    st.image("photo.jpg", caption="Sarah Effiong", width=200)  # Replace "photo.jpg" with your actual file name
+    st.image("Photo.jpg", caption="Sarah Effiong", width=200)  # Replace "photo.jpg" with your actual file name
 
     st.write("""
     ### Developer: Sarah Effiong
