@@ -1,4 +1,4 @@
-"# Tuberculosis-Detection-App" 
+# Tuberculosis-Detection-App
 
 Tuberculosis remains one of the top infectious disease killers worldwide, claiming over 1.6 million lives each year, according to the World Health Organization (WHO). It is especially prevalent in low-income regions where access to medical resources and timely diagnosis is limited. The consequences of delayed detection can be devastating, both in terms of patient outcomes and the spread of the disease.
 
