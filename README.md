@@ -20,7 +20,8 @@ The dataset used is from kaggle.com. I’m excited about the future and how tech
 
 The Web app is hosted on streamlit.io cloud, a platform where you can deploy, manage and share your app with the rest of the world for free.
 
-Link to access the web app>> https://lnkd.in/dPQQVwvD
+Link to access the web app>> https://tuberculosis-detection-web-app-fmatgeegx86jbo9rhrtbv5.streamlit.app/
+YouTube Demo Link: https://youtu.be/wWt6fcjb7pM
 
 simply upload your chest x-ray and get your prediction, it will predict Tuberculosis or Normal. happy testing! 😊 
 
